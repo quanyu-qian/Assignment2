@@ -1,12 +1,12 @@
 ---
-title: "Assignment 2 Guide"
+title: "Assignment 2 Git Guide"
 author: "Quanyu Qian"
 format: html
 editor: visual
 ---
-# ETC5513 Assignment 2
-Note: This line was added in the master branch.
 
+# ETC5513 Assignment 2 (master) / Assignment 2 Git Guide – testbranch version
+Note: This line includes content from both master and testbranch.
 
 ## Introduction
 
